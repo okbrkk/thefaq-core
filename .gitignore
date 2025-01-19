@@ -1,0 +1,14 @@
+node_modules
+
+/.cache
+/build
+/public/build
+/server-build
+.env
+.npmrc
+
+/cypress/screenshots
+/cypress/videos
+test-results
+
+playwright-report
